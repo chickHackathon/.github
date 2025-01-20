@@ -1,5 +1,3 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=30&text=PPIYo 🐥&section=header&fontSize=50&fontAlignY=30&animation=fadeIn&rotate=0" style="width: 120%;" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=28&text=PPIYo%20🐥&section=header&fontSize=50&fontAlignY=30&animation=fadeIn&rotate=0" style="width: 120%;" />
 
 ![image](https://github.com/user-attachments/assets/3133d15e-701b-4119-aa4e-046ed19f197d)
